@@ -21,6 +21,17 @@ window.APPS = [
     "color": "#bfa15f",
     "up": 0
   },
+    {
+    "id": "nt",
+    "name": "NEXT TOPPER",
+    "url": "https://uvstudyxnt.pages.dev/",
+    "icon": "img/nt.png",
+    "cat": "Education",
+    "rating": "4.7",
+    "installs": "10K+",
+    "color": "#00ffcb",
+    "up": 0
+  },
   {
     "id": "pw",
     "name": "PHYSICS WALLAH",
@@ -52,17 +63,6 @@ window.APPS = [
     "rating": "4.7",
     "installs": "18K+",
     "color": "#ffcd39",
-    "up": 0
-  },
-  {
-    "id": "nt",
-    "name": "NEXT TOPPER",
-    "url": "",
-    "icon": "img/nt.png",
-    "cat": "Education",
-    "rating": "4.7",
-    "installs": "10K+",
-    "color": "#00ffcb",
     "up": 0
   },
   {
